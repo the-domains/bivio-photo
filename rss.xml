@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Bivio Photo]]></title>
         <description><![CDATA[Bivio Photo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://biviophoto.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 03:53:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Apr 2016 04:16:35 GMT</lastBuildDate>
+        <atom:link href="http://biviophoto.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bivio Photo]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fd9d2f1-5618-4c41-b0fe-5184c68e2031.jpg">]]></description>
-            <link>undefinedbivio-photo/index.html</link>
+            <link>http://biviophoto.com/bivio-photo/index.html</link>
             <guid isPermaLink="false">6e20ddd1-c2ac-47f4-b646-19fd46ee04e6</guid>
-            <pubDate>Thu, 28 Apr 2016 03:52:29 GMT</pubDate>
+            <pubDate>Thu, 28 Apr 2016 04:16:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
