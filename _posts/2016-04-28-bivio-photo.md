@@ -5,10 +5,12 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Bivio Photo
-datePublished: '2016-04-28T03:52:29.408Z'
-dateModified: '2016-04-28T03:52:02.761Z'
+datePublished: '2016-04-28T04:16:33.953Z'
+dateModified: '2016-04-28T03:52:32.627Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-28-bivio-photo.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-28-bivio-photo.md
-published: true
 url: bivio-photo/index.html
 _type: Article
 
