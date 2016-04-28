@@ -2,6 +2,7 @@ name: Bivio Photo
 favicon: null
 layout_spectrum: 0.5933136080857366
 typography_spectrum: 0.42544437455944717
+title: Bivio Photo
 cta:
   domain: null
   bucket: null
