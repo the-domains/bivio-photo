@@ -1,6 +1,6 @@
 name: Bivio Photo
 favicon: null
-layout_spectrum: 0.5933136080857366
+layout_spectrum: 0.48802
 typography_spectrum: 0.42544437455944717
 title: Bivio Photo
 cta:
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.671497791307047
+    - '#0a0a0a'
+    - '#fefefe'
+    - '#3d3d3d'
+    - '#a77f80'
+    - '#adadad'
+  brandStrength: 0.5
   lightness: 0.14538809610530734
   saturation: 0.48967331694439054
   rhythmicContrast: 0.7864900885615498
